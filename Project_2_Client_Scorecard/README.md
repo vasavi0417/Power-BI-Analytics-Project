@@ -5,7 +5,7 @@ Client Scorecard Report is a valuable tool for evaluating the financial performa
 
 
 ### Executive Overview
-!(https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/Clientscorecard1.png)
+![Executive Overview](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/Clientscorecard1.png)
 
 Purpose of Dashboard
 
@@ -17,7 +17,7 @@ Proactive Debt Management: By tracking these metrics, the dashboard helps the te
 
 
 ### Executive Overview
-![Executive Overview](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/Clientscorecard2.png)
+![Map View](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/Clientscorecard2.png)
 
 
 Client Scorecard Dashboard Development: I developed a comprehensive Client Scorecard Dashboard that summarizes key metrics, including client revenue, payments, recoveries, placements, and inventory. This dashboard provides detailed insights at various levels such as state, client, department, and account type, allowing for granular analysis of performance across these categories.
