@@ -33,5 +33,5 @@ Result of Client Scorecard Implementation: The Client Scorecard has proven to be
 As a result of the insights gained through the scorecard, our company has improved its performance, achieving a 25% increase in payments collected from debtors compared to last year.
 
 
-### Executive Overview
+### Payment View
 ![Executive Overview](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/Clientscorecard3.png)
