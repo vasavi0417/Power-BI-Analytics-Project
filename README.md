@@ -37,8 +37,10 @@ helping leadership identify high-performing areas and optimize sales strategies.
 ### 2️⃣ HR Analytics Dashboard
 🔗 [View Project](Project_2_HR_Analytics)
 
-Analyzes workforce metrics such as attrition, hiring funnel, and headcount trends
-to support data-driven workforce planning and retention strategies.
+HR Analytics Dashboard analyzing employee attrition, job satisfaction, and
+demographic trends. Enables HR leaders to identify retention risks, evaluate
+department-level KPIs, and support strategic workforce planning.
+
 
 ---
 
