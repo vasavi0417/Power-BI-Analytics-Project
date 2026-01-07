@@ -15,7 +15,7 @@ Support Communication and Risk Management: Provide timely insights that help the
 
 
 
-![Executive Overview](https://user-images.githubusercontent.com/xxxxx/overview.png)
+![Executive Overview](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/3.png)
 
 
 
