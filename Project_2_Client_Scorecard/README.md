@@ -5,7 +5,7 @@ Client Scorecard Report is a valuable tool for evaluating the financial performa
 
 
 ### Executive Overview
-![Executive Overview](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/Clientscorecard1.png)
+!(https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/Clientscorecard1.png)
 
 Purpose of Dashboard
 
